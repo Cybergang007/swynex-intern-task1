@@ -162,4 +162,5 @@ Replace the placeholders with your actual GitHub username and repository. Submit
 
 ## Author
 
-Kavin Raj A.
+Rithik R.
+
