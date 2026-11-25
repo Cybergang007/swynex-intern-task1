@@ -1,0 +1,28 @@
+{
+  "name": "swynex-intern-task1",
+  "version": "1.1.0",
+  "description": "Express API with persistent SQLite CRUD operations",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sqlite",
+    "crud",
+    "rest-api"
+  ],
+  "author": "Kavin Raj A.",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "better-sqlite3": "^11.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
